@@ -22,12 +22,6 @@ int main(void)
  *         cast to an int. On failure, returns EOF (-1).
  */	
 putchar('_');
-/**
- * main - Entry point for the program
- *
- * Return: Always returns 0, indicating success
- */
 puts("putchar");
-/* implementation code */
 return (0);
 }
