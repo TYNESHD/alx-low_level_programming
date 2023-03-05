@@ -13,14 +13,6 @@
 
 int main(void)
 {
-/**
- * _putchar - Writes the character 'c' to stdout
- *
- * @c: The character to print
- *
- * Return: On success, returns the character 'c' as an unsigned char
- *         cast to an int. On failure, returns EOF (-1).
- */
 putchar('_');
 puts("putchar");
 return (0);
