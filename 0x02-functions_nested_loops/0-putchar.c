@@ -11,8 +11,9 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
     putchar('_');
     puts("putchar");
-    return 0;
+    return (0);
 }
