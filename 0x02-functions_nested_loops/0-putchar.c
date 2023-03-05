@@ -20,7 +20,7 @@ int main(void)
  *
  * Return: On success, returns the character 'c' as an unsigned char
  *         cast to an int. On failure, returns EOF (-1).
- */	
+ */
 putchar('_');
 puts("putchar");
 return (0);
